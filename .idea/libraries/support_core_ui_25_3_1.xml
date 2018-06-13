@@ -1,12 +1,15 @@
 <component name="libraryTable">
   <library name="support-core-ui-25.3.1">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.android/build-cache/343ea9f98ee3e7f099e214d3372ee1b3f6212a58/output/annotations.zip!/" />
+    </ANNOTATIONS>
     <CLASSES>
-      <root url="file://E:/AndroidSDKHome/AVD/.android/build-cache/1141af3761d5f7cf0d2e52606ba93c57d3fc52dd/output/res" />
-      <root url="jar://E:/AndroidSDKHome/AVD/.android/build-cache/1141af3761d5f7cf0d2e52606ba93c57d3fc52dd/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/343ea9f98ee3e7f099e214d3372ee1b3f6212a58/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/343ea9f98ee3e7f099e214d3372ee1b3f6212a58/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://E:/AndroidSDK/sdk/extras/android/m2repository/com/android/support/support-core-ui/25.3.1/support-core-ui-25.3.1-sources.jar!/" />
+      <root url="jar://C:/Android_Development/AndroidStudio/studio_sdk/extras/android/m2repository/com/android/support/support-core-ui/25.3.1/support-core-ui-25.3.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
